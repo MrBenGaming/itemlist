@@ -489,7 +489,7 @@
   },
   "item": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,

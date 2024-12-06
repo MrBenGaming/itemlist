@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.3.1.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "3.2.0.0"
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.5.4062.1"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Stranger in black",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "mastertea",
+    "name": "RandomPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.3.0"
+  },
+  {
+    "author": "Peko",
+    "name": "Market Value Overlay",
+    "steamId": "3346858002",
+    "version": "0.0.0.1"
+  },
+  {
+    "author": "the_heye",
+    "name": "Wealth Display",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gege",
+    "name": "Xenotype Xenogerms (Continued)",
+    "steamId": "3272195098",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Visible Raid Points",
+    "steamId": "2562730174",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Grizzlemethis",
+    "name": "[GMT] TicksPerSecond 1.5",
+    "steamId": "2874527504",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "3211700981",
+    "version": "1.4.1242.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kentington, Thain and SonicTHI",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  }
+]

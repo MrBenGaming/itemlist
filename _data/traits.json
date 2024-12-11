@@ -1936,5 +1936,137 @@
     },
     "defName": "VoidFascination",
     "name": "voidfascination"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 1,
+    "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+    "stats": [],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Humanoid Alien Races",
+      "karmaTypeForAdding": null
+    },
+    "defName": "HAR_Xenophobia",
+    "name": "xenophobe"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": -1,
+    "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+    "stats": [],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Humanoid Alien Races",
+      "karmaTypeForAdding": null
+    },
+    "defName": "HAR_Xenophobia",
+    "name": "xenophile"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 2,
+    "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+    "stats": [],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Dubs Bad Hygiene",
+      "karmaTypeForAdding": null
+    },
+    "defName": "Hygienic",
+    "name": "germaphobe"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": 1,
+    "description": "Timmy is very hygienic and will wash more frequently.",
+    "stats": [],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Dubs Bad Hygiene",
+      "karmaTypeForAdding": null
+    },
+    "defName": "Hygienic",
+    "name": "hygienic"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": -1,
+    "description": "Timmy is very unhygienic and will wash less frequently.",
+    "stats": [],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Dubs Bad Hygiene",
+      "karmaTypeForAdding": null
+    },
+    "defName": "Hygienic",
+    "name": "unhygienic"
+  },
+  {
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 5500,
+    "degree": -2,
+    "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+    "stats": [],
+    "conflicts": [],
+    "bypassLimit": false,
+    "data": {
+      "conflicts": [],
+      "stats": [],
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "Dubs Bad Hygiene",
+      "karmaTypeForAdding": null
+    },
+    "defName": "Hygienic",
+    "name": "slob"
   }
 ]

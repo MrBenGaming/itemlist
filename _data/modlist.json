@@ -12,6 +12,12 @@
     "version": "3.2.0.0"
   },
   {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
+  },
+  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -60,10 +66,40 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": "2812826451",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Tenants",
+    "steamId": "2850306027",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": "2506046833",
+    "version": "1.5.0.3"
+  },
+  {
+    "author": "Orion",
+    "name": "Gastronomy",
+    "steamId": "2279786905",
+    "version": "1.5.0.4"
+  },
+  {
     "author": "Gege",
     "name": "Xenotype Xenogerms (Continued)",
     "steamId": "3272195098",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospital",
+    "steamId": "2992224079",
+    "version": "1.4.0.0"
   },
   {
     "author": "nry",
@@ -78,9 +114,51 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
     "author": "Grizzlemethis",
     "name": "[GMT] TicksPerSecond 1.5",
     "steamId": "2874527504",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": "753498552",
+    "version": "1.5.0.8"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Vending machines",
+    "steamId": "3014885065",
+    "version": "1.0.0+854d56e65455bfc88da303f09b722cde2d8bf1dd"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Storefront",
+    "steamId": "",
+    "version": "1.0.0+71bad510a0b3856a501c4e38738bc65cb90b14df"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Spa",
+    "steamId": "2971831654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Casino",
+    "steamId": "2939292644",
     "version": "1.0.0.0"
   },
   {
@@ -102,9 +180,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kentington, Thain and SonicTHI",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "3.1.0.0"
   }
 ]

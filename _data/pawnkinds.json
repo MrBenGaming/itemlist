@@ -20,7 +20,7 @@
     "defName": "Human",
     "enabled": true,
     "name": "human",
-    "price": 2917
+    "price": 3000
   },
   {
     "data": {
@@ -41,8 +41,8 @@
     },
     "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
     "defName": "CreepJoiner",
-    "enabled": true,
+    "enabled": false,
     "name": "human",
-    "price": 2917
+    "price": 3000
   }
 ]

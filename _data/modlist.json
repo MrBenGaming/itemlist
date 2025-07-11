@@ -36,12 +36,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "No Pause Challenge",
-    "steamId": "1517419925",
-    "version": "3.4.4.0"
-  },
-  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -63,12 +57,6 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.0.0"
-  },
-  {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "3211700981",
-    "version": "1.4.1242.0"
+    "version": "1.16.1.0"
   }
 ]

@@ -3,43 +3,19 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.4.0"
+    "version": "2.4.2.0"
   },
   {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "author": "RedMattis",
+    "name": "Big and Small - Framework",
+    "steamId": "2925432336",
+    "version": "1.0.0+741b4acdf98c94c9845bc96ea889c13d4c55fed8"
   },
   {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
-  },
-  {
-    "author": "Tiduin",
-    "name": "Wealth Display (Continued)",
-    "steamId": "3298960397",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "1trickPwnyta",
-    "name": "Visible Raid Points",
-    "steamId": "2562730174",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "CrashM",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "1.6.4488.1"
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
     "author": "PeteTimesSix",
@@ -57,6 +33,192 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.1.0"
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.6.3.3"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.6.4553.2"
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "1trickPwnyta's Defaults",
+    "steamId": "3285178686",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "alite",
+    "name": "EBSG Framework",
+    "steamId": "3112549163",
+    "version": "1.0.9381.16541"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.9.2"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "ABF: Artificial Beings Framework",
+    "steamId": "3284097810",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "ABF: Synstructs Core",
+    "steamId": "3288463094",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Turnovus",
+    "name": "Integrated Genes",
+    "steamId": "2884115974",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Lee",
+    "name": "Star Wars : The Force Standalone",
+    "steamId": "3557220601",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lee",
+    "name": "Star Wars : The Force - Lightsaber",
+    "steamId": "3466124712",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "guy762, Sovereign and Kaitorisenkou",
+    "name": "Star Wars Xenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kaitorisenkou",
+    "name": "ModularWeapons 2",
+    "steamId": "3497834944",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "guy762, MajesticMadman, Kaitorisenkou, Lee and Ranger Rick",
+    "name": "Star Wars KotOR Resources and Materials",
+    "steamId": "3254370945",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "guy762",
+    "name": "Star Wars KotOR Weapons and Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "guy762",
+    "name": "Star Wars KotOR Droids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "guy762, Lee, Kaitorisenkou and Ranger Rick",
+    "name": "Star Wars KotOR Factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+  },
+  {
+    "author": "the_heye",
+    "name": "Twitch Chat",
+    "steamId": "2075845400",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ilyvion",
+    "name": "ilyvion's Laboratory",
+    "steamId": "3296362231",
+    "version": "0.19.0+d61c28d1d529c8f5155f398be440aeaddc9cf954"
+  },
+  {
+    "author": "ilyvion and Fluffy",
+    "name": "Colony Manager Redux",
+    "steamId": "3310027356",
+    "version": "0.14.5+62493e01554bae13ce142dbf39f46ae1c9e974d9"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.6.9381.38076"
+  },
+  {
+    "author": "Lee",
+    "name": "Star Wars : The Force Factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Core",
+    "steamId": "2919227155",
+    "version": "1.6.9306.32064"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Galactic Empire",
+    "steamId": "2919248699",
+    "version": "1.6.9308.24530"
+  },
+  {
+    "author": "LeutianKane",
+    "name": "LK Stuffable Outer Rim Empire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Stranger in black",
+    "steamId": null,
+    "version": null
   }
 ]

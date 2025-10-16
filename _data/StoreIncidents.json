@@ -306,11 +306,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "item",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
@@ -446,5 +441,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 89
+	"total": 88
 }

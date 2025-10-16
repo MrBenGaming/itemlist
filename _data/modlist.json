@@ -12,124 +12,40 @@
     "version": "1.6.4553.2"
   },
   {
-    "author": "Neronix17",
-    "name": "Tabula Rasa",
-    "steamId": "1660622094",
-    "version": "1.6.9381.38076"
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Visible Wealth",
+    "steamId": "3461137081",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Core",
-    "steamId": "2919227155",
-    "version": "1.6.9306.32064"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Chiss Ascendancy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Asimov",
-    "steamId": "3096481956",
-    "version": "1.6.9373.22245"
-  },
-  {
-    "author": "Lee",
-    "name": "Star Wars : The Force Standalone",
-    "steamId": "3557220601",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Lee",
-    "name": "Star Wars : The Force - Lightsaber",
-    "steamId": "3466124712",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Droid Depot",
-    "steamId": "3096501398",
-    "version": "1.6.9313.28450"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Furniture & Decor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Galactic Empire",
-    "steamId": "2919248699",
-    "version": "1.6.9308.24530"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Mandalore",
-    "steamId": "2920516629",
-    "version": "1.6.9308.24511"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Galactic Republic",
-    "steamId": "2971930101",
-    "version": "1.6.9308.24504"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Old Republic",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Genetics",
-    "steamId": "2910172297",
-    "version": "1.6.9341.25041"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Galactic Diversity",
-    "steamId": "2980427615",
-    "version": "1.6.9308.24507"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Separatists",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Rebel Alliance",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Soundtrack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LeutianKane",
-    "name": "LK Stuffable Outer Rim Empire",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Music Manager (Continued)",
+    "steamId": "3220120457",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "nry",
@@ -174,15 +90,15 @@
     "version": "1.4.6.0"
   },
   {
+    "author": "1trickPwnyta",
+    "name": "Stranger in black",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
-  },
-  {
-    "author": "1trickPwnyta",
-    "name": "1trickPwnyta's Defaults",
-    "steamId": "3285178686",
-    "version": "1.0.0.0"
   }
 ]

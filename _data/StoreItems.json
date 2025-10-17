@@ -868,67 +868,67 @@
       "abr": "cobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCobraFertilized",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "iguanaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggIguanaFertilized",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "tortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTortoiseFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "cassowaryegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCassowaryFertilized",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "emuegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggEmuFertilized",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "ostrichegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggOstrichFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "turkeyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTurkeyFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "duckegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggDuckUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "duckegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDuckFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "gooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggGooseUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "gooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggGooseFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "herbalmedicine",
@@ -4306,43 +4306,43 @@
       "abr": "cassowaryegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggCassowaryUnfertilized",
-      "price": 23
+      "price": -10
     },
     {
       "abr": "cobraegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggCobraUnfertilized",
-      "price": 23
+      "price": -10
     },
     {
       "abr": "emuegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggEmuUnfertilized",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "iguanaegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggIguanaUnfertilized",
-      "price": 28
+      "price": -10
     },
     {
       "abr": "ostrichegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggOstrichUnfertilized",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "tortoiseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggTortoiseUnfertilized",
-      "price": 28
+      "price": -10
     },
     {
       "abr": "turkeyegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggTurkeyUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "alligator",
@@ -4354,13 +4354,13 @@
       "abr": "alligatoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggAlligatorFertilized",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "alligatoregg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggAlligatorUnfertilized",
-      "price": 28
+      "price": -10
     },
     {
       "abr": "alligatormeat",
@@ -4450,13 +4450,13 @@
       "abr": "bluebirdegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggBluebirdFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "bluebirdegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggBluebirdUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "bluefish",
@@ -4528,13 +4528,13 @@
       "abr": "crowegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCrowFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "crowegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggCrowUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "dogfish",
@@ -4552,13 +4552,13 @@
       "abr": "flamingoegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggFlamingoFertilized",
-      "price": 43
+      "price": -10
     },
     {
       "abr": "flamingoegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggFlamingoUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "flounder",
@@ -4666,13 +4666,13 @@
       "abr": "heronegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggHeronFertilized",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "heronegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggHeronUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "hippo",
@@ -4762,13 +4762,13 @@
       "abr": "macawegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggMacawFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "macawegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggMacawUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "map",
@@ -4852,13 +4852,13 @@
       "abr": "monitorlizardegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggMonitorLizardFertilized",
-      "price": 43
+      "price": -10
     },
     {
       "abr": "monitorlizardegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggMonitorLizardUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "monitorlizardmeat",
@@ -4948,13 +4948,13 @@
       "abr": "peafowlegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggPeacockFertilized",
-      "price": 43
+      "price": -10
     },
     {
       "abr": "peafowlegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggPeacockUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "penguin",
@@ -4966,13 +4966,13 @@
       "abr": "penguinegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggPenguinFertilized",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "penguinegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggPenguinUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "pilotassistant",
@@ -5038,13 +5038,13 @@
       "abr": "quailegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggQuailFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "quailegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggQuailUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "salmon",
@@ -5086,13 +5086,13 @@
       "abr": "seaturtleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggSeaTurtleFertilized",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "seaturtleegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggSeaTurtleUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "seaturtlemeat",
@@ -5152,13 +5152,13 @@
       "abr": "sparrowegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggSparrowFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "sparrowegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggSparrowUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "statue",
@@ -5188,13 +5188,13 @@
       "abr": "swanegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggSwanFertilized",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "swanegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggSwanUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "thrumbomane",
@@ -5344,13 +5344,13 @@
       "abr": "vultureegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggVultureFertilized",
-      "price": 27
+      "price": -10
     },
     {
       "abr": "vultureegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggVultureUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "walrus",
